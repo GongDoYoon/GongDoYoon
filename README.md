@@ -3,7 +3,7 @@
  [![Gmail Badge](https://img.shields.io/badge/Gmail-d14836?style=flat-square&logo=Gmail&logoColor=white&link=mailto:hakukaka1212@gmail.com)](mailto:hakukaka1212@gmail.com)
 
 <br>
-### 💻 Tech Skills
+💻 Tech Skills
 
 <img src="https://img.shields.io/badge/JAVA-6699CB?style=flat-square&logo=java&logoColor=white"/> <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=JavaScript&logoColor=black"/> <img src="https://img.shields.io/badge/jQuery-0769AD?style=flat-square&logo=jQuery&logoColor=white"/> 
 <img src="https://img.shields.io/badge/JSP-색상코드?style=flat-square&logo=Spring&logoColor=white"/>
