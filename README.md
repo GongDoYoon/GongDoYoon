@@ -16,4 +16,7 @@
 <img src="https://img.shields.io/badge/MariaDB-003545?style=flat-square&logo=MariaDB&logoColor=white"/>
 <img src="https://img.shields.io/badge/Oracle-F80000?style=flat-square&logo=Oracle&logoColor=white"/><br>
 
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=GongDoYoon&&show_icons=true&theme=cobalt)
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=GongDoYoon&&show_icons=true&theme=tokyonight)
+
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=GongDoYoon&layout=compact&theme=tokyonight)
+
