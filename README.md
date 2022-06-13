@@ -16,8 +16,3 @@
 <img src="https://img.shields.io/badge/MariaDB-003545?style=flat-square&logo=MariaDB&logoColor=white"/>
 <img src="https://img.shields.io/badge/Oracle-F80000?style=flat-square&logo=Oracle&logoColor=white"/><br>
 
-
-# 📊GitHub Stats :
-![](https://github-readme-stats.vercel.app/api?username=JJinJong&theme=dark&hide_border=false&include_all_commits=true&count_private=false)<br/>
-![](https://github-readme-streak-stats.herokuapp.com/?user=JJinJong&theme=dark&hide_border=false)<br/>
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=JJinJong&theme=dark&hide_border=false&include_all_commits=true&count_private=false&layout=compact)
