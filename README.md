@@ -1,3 +1,5 @@
+![header](https://capsule-render.vercel.app/api?type=wave&color=auto&height=300&section=header&text=DoYoon%20GitHub&fontSize=90)
+
 😎 Hello, I'm passionate junior developer Gong Doyoon. <br>
 <img src="https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=GitHub&logoColor=white"/>
  [![Gmail Badge](https://img.shields.io/badge/Gmail-d14836?style=flat-square&logo=Gmail&logoColor=white&link=mailto:hakukaka1212@gmail.com)](mailto:hakukaka1212@gmail.com)
